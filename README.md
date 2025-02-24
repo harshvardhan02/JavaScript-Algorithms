@@ -5,12 +5,14 @@
 # Table of Contents 📚
  
 - [➊ Sorting Algorithms](#-sorting-algorithms)
+  
   - [⭐ Quick Sort](#-quick-sort)
   - [⭐ Merge Sort](#-merge-sort)
   - [⭐ Heap Sort](#-heap-sort)  
   - [⭐ Bubble Sort](#-bubble-sort)  
   - [⭐ Insertion Sort](#-insertion-sort)  
-  - [⭐ Selection Sort](#-selection-sort)  
+  - [⭐ Selection Sort](#-selection-sort)
+    
 - [➋ Searching Algorithms](#-searching-algorithms)  
   - [⭐ Binary Search](#-binary-search)  
   - [⭐ Linear Search](#-linear-search)  
